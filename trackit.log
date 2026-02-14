@@ -740,3 +740,23 @@
 2026-02-14 07:53:52,701 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 07:53:52] "GET /weekly HTTP/1.1" 200 -
 2026-02-14 07:53:52,711 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 07:53:52] "GET /leaderboard HTTP/1.1" 200 -
 2026-02-14 07:53:52,723 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 07:53:52] "GET /calendar_data?month=2&year=2026&user=me HTTP/1.1" 200 -
+2026-02-14 10:33:17,426 - __main__ - INFO - TrackIt application starting...
+2026-02-14 10:33:20,148 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.16.183:5000
+2026-02-14 10:33:20,148 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-02-14 10:33:20,151 - werkzeug - INFO -  * Restarting with stat
+2026-02-14 10:33:21,780 - __main__ - INFO - TrackIt application starting...
+2026-02-14 10:33:22,911 - werkzeug - WARNING -  * Debugger is active!
+2026-02-14 10:33:22,919 - werkzeug - INFO -  * Debugger PIN: 102-430-637
+2026-02-14 10:33:45,330 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "GET / HTTP/1.1" 200 -
+2026-02-14 10:33:45,368 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2026-02-14 10:33:45,399 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "[36mGET /static/images/default.svg HTTP/1.1[0m" 304 -
+2026-02-14 10:33:45,403 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "[36mGET /static/images/water.svg HTTP/1.1[0m" 304 -
+2026-02-14 10:33:45,434 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "[36mGET /static/images/reading.svg HTTP/1.1[0m" 304 -
+2026-02-14 10:33:45,513 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "[36mGET /static/dashboard.js HTTP/1.1[0m" 304 -
+2026-02-14 10:33:45,581 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "GET /weekly HTTP/1.1" 200 -
+2026-02-14 10:33:45,608 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "GET /leaderboard HTTP/1.1" 200 -
+2026-02-14 10:33:45,610 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "GET /calendar_data?month=2&year=2026&user=me HTTP/1.1" 200 -
+2026-02-14 10:33:45,773 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2026 10:33:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
