@@ -2,27 +2,36 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [TRACKIT] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [PIXEL FORCE]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [SHIBILA CP] - [JYOTHI ENGINEERING COLLEGE THRISSUR]
+- Member 2: [MUBASHIRA S] - [JYOTHI ENGINEERING COLLEGE THRISSUR]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://tink-her-hack-temp-7jxb.onrender.com/]
 
 ### Project Description
-[2-3 lines about what your project does]
+["A gamified habit tracking web app that helps users build consistent routines through streaks, points, and achievement badges. Complete habits daily to earn rewards and track progress."]
 
 ### The Problem statement
-[What problem are you solving?]
+[In today’s busy lifestyle, many people struggle to maintain consistency in their daily habits such as exercising, studying, or drinking enough water. There is no simple and motivating system to track progress regularly. Due to lack of proper tracking and rewards, people often lose motivation and fail to achieve their goals.
+Therefore, there is a need for a simple and user-friendly web application that helps users track daily habits, monitor progress, and stay motivated through rewards and streak systems.]
 
 ### The Solution
-[How are you solving it?]
+[To solve this problem, we developed a Habit Tracker Web Application that helps users monitor and maintain their daily habits in a simple and motivating way.
+The application allows users to:
+Add and manage daily habits
+Mark habits as completed
+Automatically track streaks
+Earn points for consistency
+Unlock rewards and badges
+The system uses a backend (Flask) to store and manage data, and a simple dashboard interface to make tracking easy and user-friendly.
+By providing visual progress and rewards, the application increases motivation and helps users build positive daily routines.]
 
 ---
 
@@ -31,53 +40,22 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [ Python3,HTML5, CSS3, Vanilla JS, Jinja2]
+- Frameworks used: [Flask(web framework,Tailwind CSS]
+- Libraries used: [pandas,requests,matplotlib,plyer]
+- Tools used: [VSCode,Github,Chatgpt]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
 
----
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: track habits
+- Feature 2: gives motivations
+- Feature 3: streaks and reminder
+- Feature 4: progress tracker
 
----
 
-## Implementation
-
-### For Software:
-
-#### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
-
-#### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
-
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
-
-## Project Documentation
 
 ### For Software:
 
